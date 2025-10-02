@@ -228,7 +228,7 @@ SOFTWARE.
 
 Eric Tantoso Salim - [@salims05](https://instagram.com/salims05) - erictantoso84@gmail.com
 
-Project Link: [https://github.com/yourusername/dollar-book-shop](https://github.com/ItsSalims/DollarBookShop)
+Project Link: [https://github.com/ItsSalims/DollarBookShop](https://github.com/ItsSalims/DollarBookShop)
 
 ---
 
