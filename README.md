@@ -15,7 +15,7 @@ Dollar Book Shop is a complete book store management system featuring role-based
 
 Clone this repository or download the latest release:
 ``` bash
-git clone https://github.com/yourusername/dollar-book-shop.git
+git clone https://github.com/ItsSalims/DollarBookShop.git
 ```
 
 ## 🎯 Key Features
