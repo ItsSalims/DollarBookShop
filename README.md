@@ -174,18 +174,6 @@ This project demonstrates:
 - Session and state management
 - Software design patterns (Singleton)
 
-## 🔮 Future Enhancements
-
-- [ ] Password encryption with BCrypt
-- [ ] Search and filter functionality
-- [ ] Order history tracking
-- [ ] Sales analytics dashboard
-- [ ] Payment gateway integration
-- [ ] Email notifications
-- [ ] Product categories and tags
-- [ ] User profile management
-- [ ] Wishlist feature
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
