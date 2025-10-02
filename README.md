@@ -226,10 +226,10 @@ SOFTWARE.
 
 ## 📧 Contact
 
-Eric Tantoso Salim - [@salims05](https://twitter.com/yourtwitter) - youremail@example.com
+Eric Tantoso Salim - [@salims05](https://instagram.com/salims05) - erictantoso84@gmail.com
 
-Project Link: [https://github.com/yourusername/dollar-book-shop](https://github.com/yourusername/dollar-book-shop)
+Project Link: [https://github.com/yourusername/dollar-book-shop](https://github.com/ItsSalims/DollarBookShop)
 
 ---
 
-**Note**: This application was developed as a learning project to demonstrate fundamental concepts in Java programming, object-oriented design, MVC architecture, and database integration. It serves as a practical example for students and beginners learning desktop application development.
+**Note**: This application was developed as a course project to fulfill the requirements of one of my subjects at Bina Nusantara University (BINUS), focusing on object-oriented programming and database integration. In addition, I implemented the MVC architecture on my own initiative, as I was already familiar with the concept and wanted to enhance the project’s structure.
